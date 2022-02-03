@@ -97,7 +97,7 @@ do the next command -> maildirmake.dovecot Maildir
 
 ◽ Update the machine ➡️ `apt update && apt -y upgrade` 
 
-◽ Install a Graphic interface with thunderbird ➡️ [Link](https://gist.github.com/jdmedeiros/32bbb759d74860d1de92c6a2c34f96f1) ➡️ (ignore the adduser and the login)(replace filezilla with thunderbird)(on the first step use 2nd option)
+◽ Install a Graphic interface with thunderbird ➡️ [Link](https://gist.github.com/jdmedeiros/32bbb759d74860d1de92c6a2c34f96f1) (go to this link) ➡️ (ignore the adduser and the login)(replace filezilla with thunderbird)(on the first step use 2nd option)
 
 ◽ Add 1 user (the same as you created in the server)
 ```
